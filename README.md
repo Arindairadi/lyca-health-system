@@ -22,10 +22,10 @@ This MVP demonstrates how communities can leverage technology to save time, impr
 ---
 
 ##  Tech Stack
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript and other few languages  
 - **Backend**: PHP  
 - **Database**: MySQL  
-- **AI Module**: Integrated API for self-diagnosis (Gemini/other AI model)  
+- **AI Module**: Integrated API for self-diagnosis 
 
 ---
 
