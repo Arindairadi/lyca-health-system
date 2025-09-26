@@ -64,9 +64,7 @@ LYCA/
 
 ##  Installation & Setup
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/LYCA.git
-   cd LYCA
+
 Setup database
 
 Import lyca.sql into your MySQL database.
