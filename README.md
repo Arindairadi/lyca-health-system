@@ -30,3 +30,53 @@ This MVP demonstrates how communities can leverage technology to save time, impr
 ---
 
 ## 📂 Project Structure
+
+LYCA/
+│── admin_create_post.php
+│── ai-diagnosis.php
+│── ambulance_index.php
+│── ambulance_request.php
+│── blog.php
+│── blog_index.php
+│── db.php
+│── emergency.php
+│── incident.php
+│── incidents_index.php
+│── index.php
+│── news.php
+│── news_index.php
+│── process_emergency.php
+│── report_ambulance.php
+│── report_incident.php
+│── report_outbreak.php
+│── save_key.php
+│── seed_ambulance.php
+│── submit-outbreak.php
+│── subscribe.php
+│── traffic.php
+│── lyca.sql # Database schema
+│
+├── images/ # System images and logo
+├── uploads/ # Uploaded incident & outbreak files
+
+
+---
+
+## 🚀 Installation & Setup
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/LYCA.git
+   cd LYCA
+Setup database
+
+Import lyca.sql into your MySQL database.
+
+Update db.php with your database credentials.
+
+Run locally
+
+Place the project folder in your server root (e.g., htdocs for XAMPP).
+
+Start Apache & MySQL from XAMPP/WAMP.
+
+Open in browser:
